@@ -1,1 +1,2 @@
 Ansley Levine
+#Lab 3 focuses on learning object oriented programming in Python. Tasks include defining classes that calculate the area for three different shapes (rectangle, triangle, circle), then importing a text file with given dimensions for each shape, then calcuating the area of the shapes in a new object using the given dimensions and the defined classes for each shape. Iterations were used through the list to print out the area for each shape.
